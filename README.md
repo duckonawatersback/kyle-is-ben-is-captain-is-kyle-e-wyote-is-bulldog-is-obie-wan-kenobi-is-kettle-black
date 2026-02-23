@@ -1,7 +1,6 @@
+# What is life? by Ben
+---
 <pre>
-# What is life? 
-                      Ben
-
 If you look out the window
 you will see life.
 Birds bees grass trees
